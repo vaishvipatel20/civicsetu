@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "Reportar",
+    "map": "Mapa",
+    "reports": "Mis Reportes",
+    "profile": "Perfil"
+  },
+  "report": {
+    "title": "Reportar un Problema",
+    "subtitle": "Ayuda a mejorar tu comunidad reportando problemas cívicos",
+    "location": "Ubicación",
+    "currentLocation": "Ubicación Actual",
+    "locationAddress": "123 Calle Principal, Centro",
+    "issueCategory": "Categoría del Problema",
+    "categories": {
+      "pothole": "Baches",
+      "streetlight": "Alumbrado Público",
+      "garbage": "Basura",
+      "safety": "Problemas de Seguridad",
+      "parks": "Parques y Árboles",
+      "construction": "Construcción"
+    },
+    "description": "Descripción",
+    "descriptionPlaceholder": "Describe el problema en detalle...",
+    "addPhotos": "Agregar Fotos (Opcional)",
+    "takePhoto": "Tomar Foto",
+    "uploadPhoto": "Subir Foto",
+    "photoAdded": "Foto agregada exitosamente",
+    "submitReport": "Enviar Reporte",
+    "categoryRequired": "Categoría Requerida",
+    "categoryRequiredMessage": "Por favor selecciona una categoría del problema.",
+    "descriptionRequired": "Descripción Requerida",
+    "descriptionRequiredMessage": "Por favor proporciona una descripción del problema.",
+    "reportSubmitted": "¡Reporte Enviado!",
+    "reportSubmittedMessage": "Gracias por reportar este problema. Te actualizaremos sobre su progreso.",
+    "ok": "OK"
+  },
+  "map": {
+    "title": "Mapa de Problemas",
+    "subtitle": "Ver problemas reportados en tu área",
+    "categories": {
+      "all": "Todos los Problemas",
+      "pothole": "Baches",
+      "streetlight": "Alumbrado Público",
+      "garbage": "Basura",
+      "safety": "Seguridad",
+      "parks": "Parques"
+    },
+    "mapView": "Vista de Mapa Interactivo",
+    "showingIssues": "Mostrando {{count}} problemas en tu área",
+    "downtownArea": "Área del centro",
+    "reportedDaysAgo": "Reportado hace {{days}} días",
+    "stats": {
+      "pending": "Pendiente",
+      "inProgress": "En Progreso",
+      "resolved": "Resuelto"
+    }
+  },
+  "reports": {
+    "title": "Mis Reportes",
+    "subtitle": "Rastrea el estado de tus problemas enviados",
+    "filters": {
+      "all": "Todos los Reportes",
+      "pending": "Pendiente",
+      "inProgress": "En Progreso",
+      "resolved": "Resuelto"
+    },
+    "status": {
+      "pending": "Pendiente",
+      "inProgress": "En Progreso",
+      "resolved": "Resuelto"
+    },
+    "lastUpdated": "Última actualización: {{date}}",
+    "summary": {
+      "totalReports": "Total de Reportes",
+      "resolved": "Resueltos",
+      "inProgress": "En Progreso"
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "subtitle": "Administra tu cuenta y configuraciones de la app",
+    "edit": "Editar",
+    "yourImpact": "Tu Impacto",
+    "stats": {
+      "reportsSubmitted": "Reportes Enviados",
+      "issuesResolved": "Problemas Resueltos",
+      "communityScore": "Puntuación Comunitaria"
+    },
+    "achievement": {
+      "title": "Campeón Comunitario",
+      "description": "¡Gracias por hacer tu comunidad mejor! Has ayudado a resolver {{count}} problemas."
+    },
+    "settings": "Configuraciones",
+    "menu": {
+      "accountSettings": {
+        "title": "Configuraciones de Cuenta",
+        "subtitle": "Administra tu perfil y preferencias"
+      },
+      "notifications": {
+        "title": "Notificaciones",
+        "subtitle": "Notificaciones push y alertas por email"
+      },
+      "language": {
+        "title": "Idioma",
+        "subtitle": "Cambiar idioma de la app"
+      },
+      "helpSupport": {
+        "title": "Ayuda y Soporte",
+        "subtitle": "Preguntas frecuentes, contáctanos y tutoriales"
+      },
+      "termsPrivacy": {
+        "title": "Términos y Privacidad",
+        "subtitle": "Información legal y políticas"
+      },
+      "safety": {
+        "title": "Seguridad",
+        "subtitle": "Reportar preocupaciones de seguridad y pautas"
+      }
+    },
+    "memberSince": "Miembro desde {{date}}",
+    "appVersion": "Versión de la App {{version}}",
+    "signOut": "Cerrar Sesión"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "Cerrar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  }
+}

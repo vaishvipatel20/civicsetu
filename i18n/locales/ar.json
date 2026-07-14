@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "إبلاغ",
+    "map": "الخريطة",
+    "reports": "تقاريري",
+    "profile": "الملف الشخصي"
+  },
+  "report": {
+    "title": "الإبلاغ عن مشكلة",
+    "subtitle": "ساعد في تحسين مجتمعك من خلال الإبلاغ عن المشاكل المدنية",
+    "location": "الموقع",
+    "currentLocation": "الموقع الحالي",
+    "locationAddress": "123 الشارع الرئيسي، وسط المدينة",
+    "issueCategory": "فئة المشكلة",
+    "categories": {
+      "pothole": "الحفر",
+      "streetlight": "إنارة الشوارع",
+      "garbage": "القمامة",
+      "safety": "مشاكل الأمان",
+      "parks": "الحدائق والأشجار",
+      "construction": "البناء"
+    },
+    "description": "الوصف",
+    "descriptionPlaceholder": "اوصف المشكلة بالتفصيل...",
+    "addPhotos": "إضافة صور (اختياري)",
+    "takePhoto": "التقاط صورة",
+    "uploadPhoto": "رفع صورة",
+    "photoAdded": "تم إضافة الصورة بنجاح",
+    "submitReport": "إرسال التقرير",
+    "categoryRequired": "الفئة مطلوبة",
+    "categoryRequiredMessage": "يرجى اختيار فئة المشكلة.",
+    "descriptionRequired": "الوصف مطلوب",
+    "descriptionRequiredMessage": "يرجى تقديم وصف للمشكلة.",
+    "reportSubmitted": "تم إرسال التقرير!",
+    "reportSubmittedMessage": "شكراً لك على الإبلاغ عن هذه المشكلة. سنقوم بتحديثك حول تقدمها.",
+    "ok": "موافق"
+  },
+  "map": {
+    "title": "خريطة المشاكل",
+    "subtitle": "عرض المشاكل المبلغ عنها في منطقتك",
+    "categories": {
+      "all": "جميع المشاكل",
+      "pothole": "الحفر",
+      "streetlight": "إنارة الشوارع",
+      "garbage": "القمامة",
+      "safety": "الأمان",
+      "parks": "الحدائق"
+    },
+    "mapView": "عرض الخريطة التفاعلية",
+    "showingIssues": "عرض {{count}} مشكلة في منطقتك",
+    "downtownArea": "منطقة وسط المدينة",
+    "reportedDaysAgo": "تم الإبلاغ عنها منذ {{days}} أيام",
+    "stats": {
+      "pending": "معلق",
+      "inProgress": "قيد التنفيذ",
+      "resolved": "محلول"
+    }
+  },
+  "reports": {
+    "title": "تقاريري",
+    "subtitle": "تتبع حالة المشاكل المرسلة",
+    "filters": {
+      "all": "جميع التقارير",
+      "pending": "معلق",
+      "inProgress": "قيد التنفيذ",
+      "resolved": "محلول"
+    },
+    "status": {
+      "pending": "معلق",
+      "inProgress": "قيد التنفيذ",
+      "resolved": "محلول"
+    },
+    "lastUpdated": "آخر تحديث: {{date}}",
+    "summary": {
+      "totalReports": "إجمالي التقارير",
+      "resolved": "محلول",
+      "inProgress": "قيد التنفيذ"
+    }
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "subtitle": "إدارة حسابك وإعدادات التطبيق",
+    "edit": "تعديل",
+    "yourImpact": "تأثيرك",
+    "stats": {
+      "reportsSubmitted": "التقارير المرسلة",
+      "issuesResolved": "المشاكل المحلولة",
+      "communityScore": "نقاط المجتمع"
+    },
+    "achievement": {
+      "title": "بطل المجتمع",
+      "description": "شكراً لك على جعل مجتمعك أفضل! لقد ساعدت في حل {{count}} مشكلة."
+    },
+    "settings": "الإعدادات",
+    "menu": {
+      "accountSettings": {
+        "title": "إعدادات الحساب",
+        "subtitle": "إدارة ملفك الشخصي والتفضيلات"
+      },
+      "notifications": {
+        "title": "الإشعارات",
+        "subtitle": "الإشعارات الفورية وتنبيهات البريد الإلكتروني"
+      },
+      "language": {
+        "title": "اللغة",
+        "subtitle": "تغيير لغة التطبيق"
+      },
+      "helpSupport": {
+        "title": "المساعدة والدعم",
+        "subtitle": "الأسئلة الشائعة، اتصل بنا والدروس"
+      },
+      "termsPrivacy": {
+        "title": "الشروط والخصوصية",
+        "subtitle": "المعلومات القانونية والسياسات"
+      },
+      "safety": {
+        "title": "الأمان",
+        "subtitle": "الإبلاغ عن مخاوف الأمان والإرشادات"
+      }
+    },
+    "memberSince": "عضو منذ {{date}}",
+    "appVersion": "إصدار التطبيق {{version}}",
+    "signOut": "تسجيل الخروج"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "إغلاق",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح"
+  }
+}

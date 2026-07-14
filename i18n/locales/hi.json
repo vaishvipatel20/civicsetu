@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "रिपोर्ट",
+    "map": "मैप",
+    "reports": "मेरी रिपोर्ट्स",
+    "profile": "प्रोफाइल"
+  },
+  "report": {
+    "title": "समस्या की रिपोर्ट करें",
+    "subtitle": "नागरिक समस्याओं की रिपोर्ट करके अपने समुदाय को बेहतर बनाने में मदद करें",
+    "location": "स्थान",
+    "currentLocation": "वर्तमान स्थान",
+    "locationAddress": "123 मुख्य सड़क, डाउनटाउन",
+    "issueCategory": "समस्या श्रेणी",
+    "categories": {
+      "pothole": "गड्ढे",
+      "streetlight": "स्ट्रीट लाइट",
+      "garbage": "कचरा",
+      "safety": "सुरक्षा समस्याएं",
+      "parks": "पार्क और पेड़",
+      "construction": "निर्माण"
+    },
+    "description": "विवरण",
+    "descriptionPlaceholder": "समस्या का विस्तार से वर्णन करें...",
+    "addPhotos": "फोटो जोड़ें (वैकल्पिक)",
+    "takePhoto": "फोटो लें",
+    "uploadPhoto": "फोटो अपलोड करें",
+    "photoAdded": "फोटो सफलतापूर्वक जोड़ी गई",
+    "submitReport": "रिपोर्ट सबमिट करें",
+    "categoryRequired": "श्रेणी आवश्यक",
+    "categoryRequiredMessage": "कृपया समस्या श्रेणी चुनें।",
+    "descriptionRequired": "विवरण आवश्यक",
+    "descriptionRequiredMessage": "कृपया समस्या का विवरण प्रदान करें।",
+    "reportSubmitted": "रिपोर्ट सबमिट की गई!",
+    "reportSubmittedMessage": "इस समस्या की रिपोर्ट करने के लिए धन्यवाद। हम आपको इसकी प्रगति के बारे में अपडेट करेंगे।",
+    "ok": "ठीक है"
+  },
+  "map": {
+    "title": "समस्या मैप",
+    "subtitle": "अपने क्षेत्र में रिपोर्ट की गई समस्याएं देखें",
+    "categories": {
+      "all": "सभी समस्याएं",
+      "pothole": "गड्ढे",
+      "streetlight": "स्ट्रीट लाइट",
+      "garbage": "कचरा",
+      "safety": "सुरक्षा",
+      "parks": "पार्क"
+    },
+    "mapView": "इंटरैक्टिव मैप व्यू",
+    "showingIssues": "आपके क्षेत्र में {{count}} समस्याएं दिखाई जा रही हैं",
+    "downtownArea": "डाउनटाउन क्षेत्र",
+    "reportedDaysAgo": "{{days}} दिन पहले रिपोर्ट की गई",
+    "stats": {
+      "pending": "लंबित",
+      "inProgress": "प्रगति में",
+      "resolved": "हल हो गई"
+    }
+  },
+  "reports": {
+    "title": "मेरी रिपोर्ट्स",
+    "subtitle": "अपनी सबमिट की गई समस्याओं की स्थिति ट्रैक करें",
+    "filters": {
+      "all": "सभी रिपोर्ट्स",
+      "pending": "लंबित",
+      "inProgress": "प्रगति में",
+      "resolved": "हल हो गई"
+    },
+    "status": {
+      "pending": "लंबित",
+      "inProgress": "प्रगति में",
+      "resolved": "हल हो गई"
+    },
+    "lastUpdated": "अंतिम अपडेट: {{date}}",
+    "summary": {
+      "totalReports": "कुल रिपोर्ट्स",
+      "resolved": "हल हो गई",
+      "inProgress": "प्रगति में"
+    }
+  },
+  "profile": {
+    "title": "प्रोफाइल",
+    "subtitle": "अपने खाते और ऐप सेटिंग्स का प्रबंधन करें",
+    "edit": "संपादित करें",
+    "yourImpact": "आपका प्रभाव",
+    "stats": {
+      "reportsSubmitted": "सबमिट की गई रिपोर्ट्स",
+      "issuesResolved": "हल की गई समस्याएं",
+      "communityScore": "कम्युनिटी स्कोर"
+    },
+    "achievement": {
+      "title": "कम्युनिटी चैंपियन",
+      "description": "अपने समुदाय को बेहतर बनाने के लिए धन्यवाद! आपने {{count}} समस्याओं को हल करने में मदद की है।"
+    },
+    "settings": "सेटिंग्स",
+    "menu": {
+      "accountSettings": {
+        "title": "खाता सेटिंग्स",
+        "subtitle": "अपनी प्रोफाइल और प्राथमिकताओं का प्रबंधन करें"
+      },
+      "notifications": {
+        "title": "सूचनाएं",
+        "subtitle": "पुश नोटिफिकेशन और ईमेल अलर्ट"
+      },
+      "language": {
+        "title": "भाषा",
+        "subtitle": "ऐप की भाषा बदलें"
+      },
+      "helpSupport": {
+        "title": "सहायता और समर्थन",
+        "subtitle": "FAQ, हमसे संपर्क करें और ट्यूटोरियल"
+      },
+      "termsPrivacy": {
+        "title": "नियम और गोपनीयता",
+        "subtitle": "कानूनी जानकारी और नीतियां"
+      },
+      "safety": {
+        "title": "सुरक्षा",
+        "subtitle": "सुरक्षा चिंताओं और दिशानिर्देशों की रिपोर्ट करें"
+      }
+    },
+    "memberSince": "{{date}} से सदस्य",
+    "appVersion": "ऐप संस्करण {{version}}",
+    "signOut": "साइन आउट"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "बंद करें",
+    "cancel": "रद्द करें",
+    "save": "सेव करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता"
+  }
+}

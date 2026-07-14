@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "举报",
+    "map": "地图",
+    "reports": "我的举报",
+    "profile": "个人资料"
+  },
+  "report": {
+    "title": "举报问题",
+    "subtitle": "通过举报市政问题帮助改善您的社区",
+    "location": "位置",
+    "currentLocation": "当前位置",
+    "locationAddress": "主街123号，市中心",
+    "issueCategory": "问题类别",
+    "categories": {
+      "pothole": "坑洞",
+      "streetlight": "路灯",
+      "garbage": "垃圾",
+      "safety": "安全问题",
+      "parks": "公园和树木",
+      "construction": "建设"
+    },
+    "description": "描述",
+    "descriptionPlaceholder": "详细描述问题...",
+    "addPhotos": "添加照片（可选）",
+    "takePhoto": "拍照",
+    "uploadPhoto": "上传照片",
+    "photoAdded": "照片添加成功",
+    "submitReport": "提交举报",
+    "categoryRequired": "需要选择类别",
+    "categoryRequiredMessage": "请选择问题类别。",
+    "descriptionRequired": "需要描述",
+    "descriptionRequiredMessage": "请提供问题描述。",
+    "reportSubmitted": "举报已提交！",
+    "reportSubmittedMessage": "感谢您举报此问题。我们会及时更新进展情况。",
+    "ok": "确定"
+  },
+  "map": {
+    "title": "问题地图",
+    "subtitle": "查看您所在地区举报的问题",
+    "categories": {
+      "all": "所有问题",
+      "pothole": "坑洞",
+      "streetlight": "路灯",
+      "garbage": "垃圾",
+      "safety": "安全",
+      "parks": "公园"
+    },
+    "mapView": "交互式地图视图",
+    "showingIssues": "显示您所在地区的{{count}}个问题",
+    "downtownArea": "市中心区域",
+    "reportedDaysAgo": "{{days}}天前举报",
+    "stats": {
+      "pending": "待处理",
+      "inProgress": "处理中",
+      "resolved": "已解决"
+    }
+  },
+  "reports": {
+    "title": "我的举报",
+    "subtitle": "跟踪您提交问题的状态",
+    "filters": {
+      "all": "所有举报",
+      "pending": "待处理",
+      "inProgress": "处理中",
+      "resolved": "已解决"
+    },
+    "status": {
+      "pending": "待处理",
+      "inProgress": "处理中",
+      "resolved": "已解决"
+    },
+    "lastUpdated": "最后更新：{{date}}",
+    "summary": {
+      "totalReports": "总举报数",
+      "resolved": "已解决",
+      "inProgress": "处理中"
+    }
+  },
+  "profile": {
+    "title": "个人资料",
+    "subtitle": "管理您的账户和应用设置",
+    "edit": "编辑",
+    "yourImpact": "您的影响",
+    "stats": {
+      "reportsSubmitted": "提交的举报",
+      "issuesResolved": "解决的问题",
+      "communityScore": "社区评分"
+    },
+    "achievement": {
+      "title": "社区冠军",
+      "description": "感谢您让社区变得更好！您已帮助解决了{{count}}个问题。"
+    },
+    "settings": "设置",
+    "menu": {
+      "accountSettings": {
+        "title": "账户设置",
+        "subtitle": "管理您的个人资料和偏好"
+      },
+      "notifications": {
+        "title": "通知",
+        "subtitle": "推送通知和邮件提醒"
+      },
+      "language": {
+        "title": "语言",
+        "subtitle": "更改应用语言"
+      },
+      "helpSupport": {
+        "title": "帮助与支持",
+        "subtitle": "常见问题、联系我们和教程"
+      },
+      "termsPrivacy": {
+        "title": "条款与隐私",
+        "subtitle": "法律信息和政策"
+      },
+      "safety": {
+        "title": "安全",
+        "subtitle": "举报安全问题和指导原则"
+      }
+    },
+    "memberSince": "{{date}}起成为会员",
+    "appVersion": "应用版本{{version}}",
+    "signOut": "退出登录"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "关闭",
+    "cancel": "取消",
+    "save": "保存",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  }
+}

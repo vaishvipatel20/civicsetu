@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "Melden",
+    "map": "Karte",
+    "reports": "Meine Meldungen",
+    "profile": "Profil"
+  },
+  "report": {
+    "title": "Problem melden",
+    "subtitle": "Helfen Sie dabei, Ihre Gemeinde zu verbessern, indem Sie Bürgerproblemen melden",
+    "location": "Standort",
+    "currentLocation": "Aktueller Standort",
+    "locationAddress": "Hauptstraße 123, Innenstadt",
+    "issueCategory": "Problemkategorie",
+    "categories": {
+      "pothole": "Schlaglöcher",
+      "streetlight": "Straßenbeleuchtung",
+      "garbage": "Müll",
+      "safety": "Sicherheitsprobleme",
+      "parks": "Parks und Bäume",
+      "construction": "Baustelle"
+    },
+    "description": "Beschreibung",
+    "descriptionPlaceholder": "Beschreiben Sie das Problem im Detail...",
+    "addPhotos": "Fotos hinzufügen (Optional)",
+    "takePhoto": "Foto aufnehmen",
+    "uploadPhoto": "Foto hochladen",
+    "photoAdded": "Foto erfolgreich hinzugefügt",
+    "submitReport": "Meldung absenden",
+    "categoryRequired": "Kategorie erforderlich",
+    "categoryRequiredMessage": "Bitte wählen Sie eine Problemkategorie aus.",
+    "descriptionRequired": "Beschreibung erforderlich",
+    "descriptionRequiredMessage": "Bitte geben Sie eine Beschreibung des Problems an.",
+    "reportSubmitted": "Meldung abgesendet!",
+    "reportSubmittedMessage": "Vielen Dank für die Meldung dieses Problems. Wir werden Sie über den Fortschritt informieren.",
+    "ok": "OK"
+  },
+  "map": {
+    "title": "Problemkarte",
+    "subtitle": "Gemeldete Probleme in Ihrer Umgebung anzeigen",
+    "categories": {
+      "all": "Alle Probleme",
+      "pothole": "Schlaglöcher",
+      "streetlight": "Straßenbeleuchtung",
+      "garbage": "Müll",
+      "safety": "Sicherheit",
+      "parks": "Parks"
+    },
+    "mapView": "Interaktive Kartenansicht",
+    "showingIssues": "{{count}} Probleme in Ihrer Umgebung werden angezeigt",
+    "downtownArea": "Innenstadtbereich",
+    "reportedDaysAgo": "Vor {{days}} Tagen gemeldet",
+    "stats": {
+      "pending": "Ausstehend",
+      "inProgress": "In Bearbeitung",
+      "resolved": "Gelöst"
+    }
+  },
+  "reports": {
+    "title": "Meine Meldungen",
+    "subtitle": "Verfolgen Sie den Status Ihrer eingereichten Probleme",
+    "filters": {
+      "all": "Alle Meldungen",
+      "pending": "Ausstehend",
+      "inProgress": "In Bearbeitung",
+      "resolved": "Gelöst"
+    },
+    "status": {
+      "pending": "Ausstehend",
+      "inProgress": "In Bearbeitung",
+      "resolved": "Gelöst"
+    },
+    "lastUpdated": "Zuletzt aktualisiert: {{date}}",
+    "summary": {
+      "totalReports": "Gesamte Meldungen",
+      "resolved": "Gelöst",
+      "inProgress": "In Bearbeitung"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "subtitle": "Verwalten Sie Ihr Konto und App-Einstellungen",
+    "edit": "Bearbeiten",
+    "yourImpact": "Ihr Einfluss",
+    "stats": {
+      "reportsSubmitted": "Eingereichte Meldungen",
+      "issuesResolved": "Gelöste Probleme",
+      "communityScore": "Community-Bewertung"
+    },
+    "achievement": {
+      "title": "Community-Champion",
+      "description": "Vielen Dank, dass Sie Ihre Gemeinde verbessern! Sie haben bei der Lösung von {{count}} Problemen geholfen."
+    },
+    "settings": "Einstellungen",
+    "menu": {
+      "accountSettings": {
+        "title": "Kontoeinstellungen",
+        "subtitle": "Verwalten Sie Ihr Profil und Ihre Einstellungen"
+      },
+      "notifications": {
+        "title": "Benachrichtigungen",
+        "subtitle": "Push-Benachrichtigungen und E-Mail-Benachrichtigungen"
+      },
+      "language": {
+        "title": "Sprache",
+        "subtitle": "App-Sprache ändern"
+      },
+      "helpSupport": {
+        "title": "Hilfe & Support",
+        "subtitle": "FAQs, kontaktieren Sie uns und Tutorials"
+      },
+      "termsPrivacy": {
+        "title": "Nutzungsbedingungen & Datenschutz",
+        "subtitle": "Rechtliche Informationen und Richtlinien"
+      },
+      "safety": {
+        "title": "Sicherheit",
+        "subtitle": "Sicherheitsbedenken und Richtlinien melden"
+      }
+    },
+    "memberSince": "Mitglied seit {{date}}",
+    "appVersion": "App-Version {{version}}",
+    "signOut": "Abmelden"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolg"
+  }
+}

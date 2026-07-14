@@ -1,0 +1,143 @@
+{
+  "navigation": {
+    "report": "Signaler",
+    "map": "Carte",
+    "reports": "Mes Signalements",
+    "profile": "Profil"
+  },
+  "report": {
+    "title": "Signaler un Problème",
+    "subtitle": "Aidez à améliorer votre communauté en signalant des problèmes civiques",
+    "location": "Localisation",
+    "currentLocation": "Localisation Actuelle",
+    "locationAddress": "123 Rue Principale, Centre-ville",
+    "issueCategory": "Catégorie du Problème",
+    "categories": {
+      "pothole": "Nids-de-poule",
+      "streetlight": "Éclairage Public",
+      "garbage": "Déchets",
+      "safety": "Problèmes de Sécurité",
+      "parks": "Parcs et Arbres",
+      "construction": "Construction"
+    },
+    "description": "Description",
+    "descriptionPlaceholder": "Décrivez le problème en détail...",
+    "addPhotos": "Ajouter des Photos (Optionnel)",
+    "takePhoto": "Prendre une Photo",
+    "uploadPhoto": "Télécharger une Photo",
+    "photoAdded": "Photo ajoutée avec succès",
+    "submitReport": "Soumettre le Signalement",
+    "categoryRequired": "Catégorie Requise",
+    "categoryRequiredMessage": "Veuillez sélectionner une catégorie de problème.",
+    "descriptionRequired": "Description Requise",
+    "descriptionRequiredMessage": "Veuillez fournir une description du problème.",
+    "reportSubmitted": "Signalement Soumis !",
+    "reportSubmittedMessage": "Merci d'avoir signalé ce problème. Nous vous tiendrons informé de son progrès.",
+    "ok": "OK"
+  },
+  "map": {
+    "title": "Carte des Problèmes",
+    "subtitle": "Voir les problèmes signalés dans votre région",
+    "categories": {
+      "all": "Tous les Problèmes",
+      "pothole": "Nids-de-poule",
+      "streetlight": "Éclairage Public",
+      "garbage": "Déchets",
+      "safety": "Sécurité",
+      "parks": "Parcs"
+    },
+    "mapView": "Vue Carte Interactive",
+    "showingIssues": "Affichage de {{count}} problèmes dans votre région",
+    "downtownArea": "Zone du centre-ville",
+    "reportedDaysAgo": "Signalé il y a {{days}} jours",
+    "stats": {
+      "pending": "En Attente",
+      "inProgress": "En Cours",
+      "resolved": "Résolu"
+    }
+  },
+  "reports": {
+    "title": "Mes Signalements",
+    "subtitle": "Suivez le statut de vos problèmes soumis",
+    "filters": {
+      "all": "Tous les Signalements",
+      "pending": "En Attente",
+      "inProgress": "En Cours",
+      "resolved": "Résolu"
+    },
+    "status": {
+      "pending": "En Attente",
+      "inProgress": "En Cours",
+      "resolved": "Résolu"
+    },
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "summary": {
+      "totalReports": "Total des Signalements",
+      "resolved": "Résolus",
+      "inProgress": "En Cours"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "subtitle": "Gérez votre compte et les paramètres de l'application",
+    "edit": "Modifier",
+    "yourImpact": "Votre Impact",
+    "stats": {
+      "reportsSubmitted": "Signalements Soumis",
+      "issuesResolved": "Problèmes Résolus",
+      "communityScore": "Score Communautaire"
+    },
+    "achievement": {
+      "title": "Champion Communautaire",
+      "description": "Merci de rendre votre communauté meilleure ! Vous avez aidé à résoudre {{count}} problèmes."
+    },
+    "settings": "Paramètres",
+    "menu": {
+      "accountSettings": {
+        "title": "Paramètres du Compte",
+        "subtitle": "Gérez votre profil et préférences"
+      },
+      "notifications": {
+        "title": "Notifications",
+        "subtitle": "Notifications push et alertes email"
+      },
+      "language": {
+        "title": "Langue",
+        "subtitle": "Changer la langue de l'application"
+      },
+      "helpSupport": {
+        "title": "Aide et Support",
+        "subtitle": "FAQ, nous contacter et tutoriels"
+      },
+      "termsPrivacy": {
+        "title": "Conditions et Confidentialité",
+        "subtitle": "Informations légales et politiques"
+      },
+      "safety": {
+        "title": "Sécurité",
+        "subtitle": "Signaler des préoccupations de sécurité et directives"
+      }
+    },
+    "memberSince": "Membre depuis {{date}}",
+    "appVersion": "Version de l'App {{version}}",
+    "signOut": "Se Déconnecter"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "Fermer",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  }
+}

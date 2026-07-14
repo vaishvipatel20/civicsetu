@@ -1,0 +1,219 @@
+{
+  "navigation": {
+    "report": "Report",
+    "map": "Map",
+    "reports": "My Reports",
+    "profile": "Profile"
+  },
+  "report": {
+    "title": "Report an Issue",
+    "subtitle": "Help improve your community by reporting civic issues",
+    "location": "Location",
+    "currentLocation": "Current Location",
+    "locationAddress": "123 Main Street, Downtown",
+    "issueCategory": "Issue Category",
+    "categories": {
+      "pothole": "Potholes",
+      "streetlight": "Street Lights",
+      "garbage": "Garbage",
+      "safety": "Safety Issues",
+      "parks": "Parks & Trees",
+      "construction": "Construction"
+    },
+    "description": "Description",
+    "descriptionPlaceholder": "Describe the issue in detail...",
+    "addPhotos": "Add Photos (Optional)",
+    "takePhoto": "Take Photo",
+    "uploadPhoto": "Upload Photo",
+    "photoAdded": "Photo added successfully",
+    "submitReport": "Submit Report",
+    "categoryRequired": "Category Required",
+    "categoryRequiredMessage": "Please select an issue category.",
+    "descriptionRequired": "Description Required",
+    "descriptionRequiredMessage": "Please provide a description of the issue.",
+    "reportSubmitted": "Report Submitted!",
+    "reportSubmittedMessage": "Thank you for reporting this issue. We'll update you on its progress.",
+    "ok": "OK"
+  },
+  "map": {
+    "title": "Issue Map",
+    "subtitle": "View reported issues in your area",
+    "categories": {
+      "all": "All Issues",
+      "pothole": "Potholes",
+      "streetlight": "Street Lights",
+      "garbage": "Garbage",
+      "safety": "Safety",
+      "parks": "Parks"
+    },
+    "mapView": "Interactive Map View",
+    "showingIssues": "Showing {{count}} issues in your area",
+    "downtownArea": "Downtown area",
+    "reportedDaysAgo": "Reported {{days}} days ago",
+    "stats": {
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "resolved": "Resolved"
+    }
+  },
+  "reports": {
+    "title": "My Reports",
+    "subtitle": "Track the status of your submitted issues",
+    "filters": {
+      "all": "All Reports",
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "resolved": "Resolved"
+    },
+    "status": {
+      "pending": "Pending",
+      "inProgress": "In Progress",
+      "resolved": "Resolved"
+    },
+    "lastUpdated": "Last updated: {{date}}",
+    "summary": {
+      "totalReports": "Total Reports",
+      "resolved": "Resolved",
+      "inProgress": "In Progress"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "subtitle": "Manage your account and app settings",
+    "edit": "Edit",
+    "yourImpact": "Your Impact",
+    "stats": {
+      "reportsSubmitted": "Reports Submitted",
+      "issuesResolved": "Issues Resolved",
+      "communityScore": "Community Score"
+    },
+    "achievement": {
+      "title": "Community Champion",
+      "description": "Thank you for making your community better! You've helped resolve {{count}} issues."
+    },
+    "settings": "Settings",
+    "menu": {
+      "accountSettings": {
+        "title": "Account Settings",
+        "subtitle": "Manage your profile and preferences"
+      },
+      "notifications": {
+        "title": "Notifications",
+        "subtitle": "Push notifications and email alerts"
+      },
+      "language": {
+        "title": "Language",
+        "subtitle": "Change app language"
+      },
+      "helpSupport": {
+        "title": "Help & Support",
+        "subtitle": "FAQs, contact us, and tutorials"
+      },
+      "termsPrivacy": {
+        "title": "Terms & Privacy",
+        "subtitle": "Legal information and policies"
+      },
+      "safety": {
+        "title": "Safety",
+        "subtitle": "Report safety concerns and guidelines"
+      }
+    },
+    "memberSince": "Member since {{date}}",
+    "appVersion": "App Version {{version}}",
+    "signOut": "Sign Out"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ar": "العربية",
+    "zh": "中文",
+    "hi": "हिन्दी",
+    "pt": "Português"
+  },
+  "common": {
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "management": {
+    "navigation": {
+      "dashboard": "Dashboard",
+      "reports": "Reports",
+      "map": "Map",
+      "team": "Team",
+      "settings": "Settings"
+    },
+    "dashboard": {
+      "title": "Management Dashboard",
+      "subtitle": "Monitor and manage civic reports across your city",
+      "periods": {
+        "day": "Today",
+        "week": "Week",
+        "month": "Month",
+        "year": "Year"
+      },
+      "stats": {
+        "totalReports": "Total Reports",
+        "pendingReports": "Pending Reports",
+        "inProgress": "In Progress",
+        "resolved": "Resolved",
+        "avgResolution": "Avg Resolution Time",
+        "satisfaction": "Citizen Satisfaction"
+      },
+      "recentReports": "Recent Reports",
+      "filter": "Filter",
+      "viewAllReports": "View All Reports",
+      "quickActions": "Quick Actions",
+      "assignTeam": "Assign Team",
+      "viewMap": "View Map",
+      "schedule": "Schedule Work"
+    },
+    "reports": {
+      "title": "Report Management",
+      "subtitle": "Review and manage all civic issue reports",
+      "searchPlaceholder": "Search reports...",
+      "filters": {
+        "all": "All Reports",
+        "pending": "Pending",
+        "inProgress": "In Progress",
+        "resolved": "Resolved",
+        "highPriority": "High Priority"
+      }
+    },
+    "map": {
+      "title": "City Map View",
+      "subtitle": "Geographic overview of all reported issues",
+      "categories": {
+        "all": "All Issues",
+        "pothole": "Potholes",
+        "streetlight": "Street Lights",
+        "garbage": "Garbage",
+        "safety": "Safety",
+        "parks": "Parks",
+        "construction": "Construction"
+      },
+      "mapView": "Interactive Management Map",
+      "showingIssues": "Managing {{count}} issues citywide",
+      "reportedDaysAgo": "Reported {{days}} days ago",
+      "stats": {
+        "pending": "Pending",
+        "inProgress": "In Progress",
+        "resolved": "Resolved"
+      }
+    },
+    "team": {
+      "title": "Team Management",
+      "subtitle": "Manage field teams and work assignments",
+      "searchPlaceholder": "Search team members..."
+    },
+    "settings": {
+      "title": "System Settings",
+      "subtitle": "Configure system preferences and policies"
+    }
+  }
+}
