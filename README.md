@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/49253002-e2ce-47bd-916f-ad449039b6e7
+
+
+
+https://github.com/user-attachments/assets/ed2c2349-9099-4698-a449-d0bc079991aa
+
+
+
+https://github.com/user-attachments/assets/fa4123b3-d81c-47e0-a788-c27c1471ddf0
+
 # 🏙️ Smart Civic Issue Reporting and Management System
 
 *A Smart India Hackathon project developed to streamline civic issue reporting through a cross-platform mobile application built with React Native and Expo.*
@@ -187,7 +199,10 @@ A demonstration video showcasing the application's workflow, including complaint
 
 
 
-https://github.com/user-attachments/assets/175c0e9b-4a71-42cd-b60f-5c4b3530c02d
+
+
+
+https://github.com/user-attachments/assets/d424d664-85f7-4a00-be66-7a14d693906f
 
 
 
